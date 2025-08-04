@@ -69,6 +69,14 @@ An example use case can be found [here](https://schochastics.github.io/netrankr/
 The package comes with a set of vignettes that describe several use case scenarios.
 Please refer to the [overview of this package](https://schochastics.github.io/netrankr/).
 
+## Hardware Requirements
+
+NetrankR runs on any machine that can run R.
+
+## Technical Details
+
+Check the official [CRAN page](https://doi.org/10.32614/CRAN.package.netrankr) for further information.
+
 ## Contact Details
 
 Maintainer: David Schoch <david@schochastics.net>
