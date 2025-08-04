@@ -72,6 +72,10 @@ remotes::install_github("schochastics/netrankr")
 
 ________________________________________________________________________________
 
+## Hardware Requirements
+
+NetrankR runs on any machine that can run R.
+
 ## Simple Example
 
 This example briefly explains some of the functionality of the package and the 
@@ -205,6 +209,10 @@ and a class of uniquely ranked graphs. *Social Networks*, **50**, 46-54.([link](
 > Brandes, Ulrik. (2016). Network Positions.
 *Methodological Innovations*, **9**, 2059799116630650.
 ([link](https://dx.doi.org/10.1177/2059799116630650))
+
+## Technical Details
+
+Check the official [CRAN page](https://doi.org/10.32614/CRAN.package.netrankr) for further information.
 
 ## Code of Conduct
 
