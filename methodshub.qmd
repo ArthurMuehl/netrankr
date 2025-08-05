@@ -44,10 +44,9 @@ With R installed:
 install.packages("netrankr")
 ```
 
-<!-- ## Hardware Requirements (Optional) -->
-<!-- - The hardware requirements may be needed in specific cases when a method is known to require more memory/compute power.  -->
-<!-- - The method need to be executed on a specific architecture (GPUs, Hadoop cluster etc.) -->
+## Hardware Requirements
 
+NetrankR runs on any machine that can run R.
 
 ## Input Data 
 
@@ -68,6 +67,10 @@ An example use case can be found [here](https://schochastics.github.io/netrankr/
 
 The package comes with a set of vignettes that describe several use case scenarios.
 Please refer to the [overview of this package](https://schochastics.github.io/netrankr/).
+
+## Technical Details
+
+Check the official [CRAN page](https://doi.org/10.32614/CRAN.package.netrankr) for further information.
 
 ## Contact Details
 
